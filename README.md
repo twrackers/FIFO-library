@@ -1,6 +1,6 @@
 # FIFO #
 
-This class implements a _FIFO_ (first-in/first-out buffer) with a fixed capacity of bytes.  The FIFO is implemented with a *ring buffer*.
+This class implements a _FIFO_ (first-in/first-out buffer) with a fixed capacity of bytes.  The FIFO is implemented with a [ring buffer](https://en.wikipedia.org/wiki/Circular_buffer "ring buffer").
 
 Bytes are "pushed" into a FIFO one at a time, and they are "popped" back out with their push order preserved (first in, first out).  Pushes and pops may happen in any order, with two conditions.
 
