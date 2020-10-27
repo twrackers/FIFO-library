@@ -13,7 +13,7 @@ void show()
 // One-time test.
 void setup() 
 {
-  // Set up consolee output.
+  // Set up console output.
   Serial.begin(115200);
   // Show status of (empty) ring buffer.
   show();
