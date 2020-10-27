@@ -20,13 +20,7 @@ The FIFO library has no dependencies on any other libraries.
 
 ## Installation ##
 
-To install the FIFO library:
-
-1. Find where your Arduino IDE stores libraries you install.  To do this, in the IDE click *File -> Preferences*.  The "Sketchbook location" tells you where the IDE looks for sketches.  For example, on a Windows system the sketchbook may be located at `C:\Arduino\sketches`.  In that case, your libraries should be found at `C:\Arduino\libraries`.
-2. From the top page of this repository, [https://github.com/twrackers/FIFO-library](https://github.com/twrackers/FIFO-library), click the green `Code` button, then click `Download ZIP`.
-3. Open the downloaded `.zip` file.  You will see a single directory named `FIFO-library-main`.  Do an `Extract all` into your `libraries` directory.
-4. Rename the directory you just created to simply `FIFO`.
-5. Restart the Arduino IDE.  You should now be able to include the FIFO class in your codes.
+Instructions for installing the *FIFO* class can be found in file `INSTALL.md` in this repository at [https://github.com/twrackers/FIFO-library/blob/main/INSTALL.md](https://github.com/twrackers/FIFO-library/blob/main/INSTALL.md).
 
 ## Note ##
 
